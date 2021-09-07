@@ -1,0 +1,44 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px gainsboro;
+}
+
+.heading_div{
+    float: none;
+    background:ghostwhite;
+    padding: 10px;
+    box-shadow: 5px 5px 5px gainsboro;
+    border-radius: 20px;
+    color: black
+    
+}
+
+.heading_div2{
+    font-size: 18px;
+}
+
+.result_para_tag{
+    font-size: 18px;
+    box-shadow: 5px 5px 5px gainsboro;
+}
+
+.copyrightfooter{
+    position:fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px rgb(116, 110, 110);
+   background-color: blanchedalmond;
+   border-radius:20px ;
+   margin-top: 150px; 
+   border: 5px peachpuff;
+
+}
